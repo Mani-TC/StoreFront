@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreFrontWeb", "StoreFrontWeb.csproj", "{AF9CDB18-3606-4A91-9E9A-FCD7B3D75EE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorefrontAng", "..\StorefrontAng\StorefrontAng.csproj", "{AF6EB561-820A-4B3F-AA29-CC6ABF261F6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF9CDB18-3606-4A91-9E9A-FCD7B3D75EE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF9CDB18-3606-4A91-9E9A-FCD7B3D75EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF9CDB18-3606-4A91-9E9A-FCD7B3D75EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF9CDB18-3606-4A91-9E9A-FCD7B3D75EE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF6EB561-820A-4B3F-AA29-CC6ABF261F6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF6EB561-820A-4B3F-AA29-CC6ABF261F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF6EB561-820A-4B3F-AA29-CC6ABF261F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF6EB561-820A-4B3F-AA29-CC6ABF261F6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A5BB19F-4B61-4BCE-8A17-534678D90842}
+	EndGlobalSection
+EndGlobal
